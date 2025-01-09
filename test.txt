@@ -1,0 +1,11 @@
+thành đã đến đây 
+PS C:\Users\letru\OneDrive\Máy tính\git hao\my_project> git checkout -b hao
+Switched to a new branch 'hao'
+PS C:\Users\letru\OneDrive\Máy tính\git hao\my_project> git checkout -b thanh
+fatal: a branch named 'thanh' already exists
+PS C:\Users\letru\OneDrive\Máy tính\git hao\my_project> git checkout thanh   
+Switched to branch 'thanh'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\letru\OneDrive\Máy tính\git hao\my_project> git branch
+  hao
+* thanh
